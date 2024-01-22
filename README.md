@@ -17,3 +17,6 @@ npx create-react-app ./
 ```
 npm install --legacy-peer-deps
 ```
+5. Goto https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb and subscribe to this API. Then, copy X-RapidAPI-Key and paste in .env file.
+ 
+6. Also you required to subscribe for Youtube Search and Download API https://rapidapi.com/h0p3rwe/api/youtube-search-and-download.
